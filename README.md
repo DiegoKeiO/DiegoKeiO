@@ -22,7 +22,7 @@
 - 🔭 Actualmente trabajando en: **Sistema de Gestión de Inventarios** y Proyectos de NLP.
 - 🌱 Aprendiendo: **Deep Learning avanzado** y arquitecturas de **Cloud Computing**.
 - 👯 Busco colaborar en: Proyectos de **Data Science** y **Open Source**.
-- [cite_start]🗣️ Idiomas: **Español** (Nativo) e **Inglés** (C1 - Avanzado)[cite: 71].
+- 🗣️ Idiomas: **Español** (Nativo) e **Inglés** (C1 - Avanzado).
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Proyecto | Descripción | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **🗳️ Análisis Electoral NLP** | [cite_start]Análisis de sentimiento de +4,600 comentarios sobre candidatos presidenciales Perú 2026. [cite: 76] | Python, Apify, Scikit-Learn | [Ver Paper](https://drive.google.com/drive/u/0/folders/1veo7o672cL9IOAhcRpPdkfitCLFpYqFa) |
-| **🎨 GANIA (AI Art)** | [cite_start]Aplicación de escritorio para generación de arte usando GANs (DCGAN & CycleGAN). [cite: 80] | Python, PyTorch, PyQt5 | [Repo](https://github.com/LeonidCJ/GANIA) |
-| **📦 Sistema Inventarios** | [cite_start]Plataforma Full Stack para gestión de stock y almacenes. [cite: 84] | React, Spring Boot, MySQL | *Privado* |
+| **🗳️ Análisis Electoral NLP** | [cite_start]Análisis de sentimiento de +4,600 comentarios sobre candidatos presidenciales Perú 2026. | Python, Apify, Scikit-Learn | [Ver Paper](https://drive.google.com/drive/u/0/folders/1veo7o672cL9IOAhcRpPdkfitCLFpYqFa) |
+| **🎨 GANIA (AI Art)** | Aplicación de escritorio para generación de arte usando GANs (DCGAN & CycleGAN).  | Python, PyTorch, PyQt5 | [Repo](https://github.com/LeonidCJ/GANIA) |
+| **📦 Sistema Inventarios** | Plataforma Full Stack para gestión de stock y almacenes.  | React, Spring Boot, MySQL | *Privado* |
 
 ---
 
