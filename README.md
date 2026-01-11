@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Hi,%20I'm%20Diego%20Alonso!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Hi,%20I'm%20Diego%20Alonso!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
   <h3>👨‍💻 Software Engineering Student | Data Science Enthusiast</h3>
   
@@ -12,7 +12,6 @@
     </a>
   </p>
 </div>
-
 ---
 
 ### 🚀 About Me
@@ -24,7 +23,7 @@ I am currently looking for an internship opportunity as a **Data Analyst** or **
 - 🔭 **I’m currently working on:** Inventory Management Systems and NLP research projects.
 - 🌱 **I’m currently learning:** Advanced Deep Learning and **Modern Web Development Tools**.
 - 👯 **I’m looking to collaborate on:** Data Science, AI, and Open Source projects.
-- 🗣️ **Languages:** Spanish (Native) and **English** (Advanced C1).
+- 🗣️ **Languages:** Spanish (Native) and **English** (Advanced).
 
 ---
 
