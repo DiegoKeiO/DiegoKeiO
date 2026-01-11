@@ -61,14 +61,10 @@ I am currently looking for an internship opportunity as a **Data Analyst** or **
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DiegoKeiO&show_icons=true&theme=radical" alt="Diego's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoKeiO&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
-</div>
+### 📊 GitHub Stats
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoKeiO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoKeiO&layout=compact&theme=radical)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer" width="100%"/>
