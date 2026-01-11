@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Hola,%20soy%20Diego%20Alonso!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Hi,%20I'm%20Diego%20Alonso!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
-  <h3>👨‍💻 Estudiante de Ingeniería de Software | Entusiasta de la Ciencia de Datos</h3>
+  <h3>👨‍💻 Software Engineering Student | Data Science Enthusiast</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/diego-alonso-calderon-matias-525b16328/">
@@ -15,14 +15,16 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-[cite_start]Estudiante de **8vo ciclo de Ingeniería de Software** en la **UNMSM**[cite: 53]. Me apasiona encontrar patrones ocultos en los datos y construir soluciones de software eficientes. Actualmente busco oportunidades como **Practicante de Analítica de Datos** o **Desarrollador Junior**.
+I am an **8th-cycle Software Engineering student** at **UNMSM** (Lima, Peru). I am passionate about uncovering hidden patterns in data and building efficient, scalable software solutions. 
 
-- 🔭 Actualmente trabajando en: **Sistema de Gestión de Inventarios** y Proyectos de NLP.
-- 🌱 Aprendiendo: **Deep Learning avanzado** y arquitecturas de **Cloud Computing**.
-- 👯 Busco colaborar en: Proyectos de **Data Science** y **Open Source**.
-- 🗣️ Idiomas: **Español** (Nativo) e **Inglés** (C1 - Avanzado).
+I am currently looking for an internship opportunity as a **Data Analyst** or **Junior Software Developer** where I can apply my skills in Python, SQL, and Full Stack Development.
+
+- 🔭 **I’m currently working on:** Inventory Management Systems and NLP research projects.
+- 🌱 **I’m currently learning:** Advanced Deep Learning and **Modern Web Development Tools**.
+- 👯 **I’m looking to collaborate on:** Data Science, AI, and Open Source projects.
+- 🗣️ **Languages:** Spanish (Native) and **English** (Advanced C1).
 
 ---
 
@@ -30,7 +32,7 @@
 
 <div align="center">
 
-**Ciencia de Datos & IA**
+**Data Science & AI**
 <br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -39,7 +41,7 @@
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
 
-**Desarrollo de Software**
+**Software Development**
 <br>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -47,7 +49,7 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
-**Bases de Datos & Herramientas**
+**Databases & Tools**
 <br>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
@@ -57,21 +59,15 @@
 
 ---
 
-### 📂 Proyectos Destacados
-
-| Proyecto | Descripción | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **🗳️ Análisis Electoral NLP** | [cite_start]Análisis de sentimiento de +4,600 comentarios sobre candidatos presidenciales Perú 2026. | Python, Apify, Scikit-Learn | [Ver Paper](https://drive.google.com/drive/u/0/folders/1veo7o672cL9IOAhcRpPdkfitCLFpYqFa) |
-| **🎨 GANIA (AI Art)** | Aplicación de escritorio para generación de arte usando GANs (DCGAN & CycleGAN).  | Python, PyTorch, PyQt5 | [Repo](https://github.com/LeonidCJ/GANIA) |
-| **📦 Sistema Inventarios** | Plataforma Full Stack para gestión de stock y almacenes.  | React, Spring Boot, MySQL | *Privado* |
-
----
-
-### 📊 Mis Estadísticas en GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoKeiO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoKeiO&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=DiegoKeiO&show_icons=true&theme=radical" alt="Diego's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoKeiO&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
 </div>
 
 <div align="center">
