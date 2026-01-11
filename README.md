@@ -61,8 +61,6 @@ I am currently looking for an internship opportunity as a **Data Analyst** or **
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoKeiO&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoKeiO&layout=compact&theme=radical)
 
