@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi,%20I'm%20Diego%20Alonso!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+UNMSM;Data+%26+Analytics+Enthusiast;Process+Automation+%26+BPM;Full-Stack+%26+Mobile+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+UNMSM;Data+Science+Enthusiast;Process+Automation+%26+Analysis;Full-Stack+%26+Mobile+Development" alt="Typing SVG" />
   </a>
 
   <p>
@@ -71,6 +71,14 @@ I am currently looking for an internship opportunity as a **Data Analyst**, **Pr
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoKeiO&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoKeiO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoKeiO&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiegoKeiO&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <div align="center">
